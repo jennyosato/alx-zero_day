@@ -1,1 +1,1 @@
-A not empty readme
+This readme file is updated from Github.com
